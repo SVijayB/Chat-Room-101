@@ -3,16 +3,27 @@ import tkinter
 import socket
 from threading import Thread
 from time import sleep
+from pygame import mixer
+
+mixer.init()
+
+message_sent = False
+notif_sound = mixer.Sound('../assets/sms-alert-3-daniel_simon.wav')
 
 def receive():
     while (True):
         try:
+            global message_sent
             message = s.recv(1024).decode("utf8")
             message_list.insert(tkinter.END,message)
+            if message_sent is not True:
+                notif_sound.play()
+            message_sent = False
         except:
             break
 
 def send():
+    global message_sent
     message = my_message.get()
     my_message.set("")
     s.send(bytes(message, "utf8"))
@@ -20,6 +31,7 @@ def send():
     if message == "#quit":
         s.close()
         window.quit()
+    message_sent = True
 
 def closing():
     my_message.set("#quit")
