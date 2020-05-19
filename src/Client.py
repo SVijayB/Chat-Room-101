@@ -3,12 +3,18 @@ import tkinter
 import socket
 from threading import Thread
 from time import sleep
+from pygame import mixer
+
+mixer.init()
+
+notif_sound = mixer.Sound('../assets/sms-alert-3-daniel_simon.wav')
 
 def receive():
     while (True):
         try:
             message = s.recv(1024).decode("utf8")
             message_list.insert(tkinter.END,message)
+            notif_sound.play()
         except:
             break
 
