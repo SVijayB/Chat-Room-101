@@ -51,7 +51,7 @@ def handle_client(con,adr):
         print(name + " has left the chat")
 
 if __name__ == "__main__":
-    s.listen()         # Only 5 clients can join
+    s.listen()
     print("The Server Is Now Online")
     t1 = Thread(target=accept_client)
     t1.start()
