@@ -2,6 +2,7 @@ from tkinter import *
 import tkinter
 import socket
 from threading import Thread
+from time import sleep
 
 def receive():
     while (True):
@@ -24,9 +25,14 @@ def closing():
     my_message.set("#quit")
     send()
 
-host = input("Enter Host IP : ")
-port = int(input("Enter Port : "))
-
+while(True):
+    try:
+        host = input("Enter Host IP : ")
+        port = int(input("Enter Port : "))
+        break
+    except:
+        print("Please verify details entered")
+    
 window = Tk()
 window.title("Chat Room")
 window.configure(bg="white")
@@ -60,6 +66,7 @@ try:
     s.connect((host,port))
 except:
     print("Please Verify Host IP and Port Number")
+    sleep(5)
     sys.exit(0)
 recieve_thread = Thread(target=receive)
 recieve_thread.start()
