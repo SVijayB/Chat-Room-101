@@ -4,11 +4,14 @@ from threading import Thread
 clients = {}
 addresses = {}
 
-host = ""
+host = socket.gethostname()
+ip = socket.gethostbyname(host)
 port = 8080
 
 s = socket.socket()
 s.bind((host,port))
+print(host, ip)
+print("Ask clients to enter host IP as :",ip,"and port as :",port)
 
 def accept_client():
     while (True):
