@@ -1,6 +1,6 @@
 # Chat-Room-101
 <p align="center">
-    <a href="https://github.com/1StranGe/Chat-Room-101"><img src="https://i.ibb.co/p3jgQSk/SS.png" alt="Logo" border="0"></a>
+    <a href="https://github.com/SVijayB/Chat-Room-101"><img src="https://i.ibb.co/p3jgQSk/SS.png" alt="Logo" border="0"></a>
     <br>A Simple GUI based Chat Room Application.
 </p>
 
@@ -20,9 +20,9 @@ Hence, messages are sent and recieved securly.
 
 ## Usage
 
-For the latest Stable version, go to <a href="https://github.com/1StranGe/Chat-Room-101/releases">Releases</a>
+For the latest Stable version, go to <a href="https://github.com/SVijayB/Chat-Room-101/releases">Releases</a>
 
-As an alternative, you could also clone the repository using `git clone https://github.com/1StranGe/Chat-Room-101.git`
+As an alternative, you could also clone the repository using `git clone https://github.com/SVijayB/Chat-Room-101.git`
 
 ### Server Side : 
 If you want to host your own Chat room, 
@@ -35,10 +35,10 @@ Enter the Host IP address and the Port number.
 
 ## Contributing 
 
-To contribute to Steam_WebScrapper, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/1StranGe/Chat-Room-101/blob/master/docs/CONTRIBUTING.md) before sending us Pull requests. 
+To contribute to Steam_WebScrapper, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/Chat-Room-101/blob/master/docs/CONTRIBUTING.md) before sending us Pull requests. 
 
 Also, thanks for contributing to Open-source!
 
 ## License 
 
-Steam Web Scraper is Licensed under MIT. Read the [LICENSE](https://github.com/1StranGe/Chat-Room-101/blob/master/LICENSE) file for more information.
+Steam Web Scraper is Licensed under MIT. Read the [LICENSE](https://github.com/SVijayB/Chat-Room-101/blob/master/LICENSE) file for more information.
