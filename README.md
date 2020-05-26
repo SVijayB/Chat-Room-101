@@ -34,8 +34,8 @@ Send your clients the IP address and the port you are using (default = 8080)
 If you want people connected to a different router to connect to the server, port-forwarding is the only option.<br>
 Its really not that hard. Just follow the below steps.
 - Use `ifconfig` on linux or mac and `ipconfig` on windows comand line.
-- Copy the Default Gateway value and your IPv4 Address.
-- Paste the Default Gateway value on any browser url and login with your router credentials.
+- Copy the Default Gateway IP Address value and your IPv4 Address.
+- Paste the Default Gateway Address on any browser url and login with your router credentials.
 - Go to advanced settings and search for options like NAT forwarding or virtual servers.
 - Set up a virtual server, select service type as `SOCK` or `Socket`. 
 - Choose port `8080` for both internal and external connection.
