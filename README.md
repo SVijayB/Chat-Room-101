@@ -41,7 +41,9 @@ Its really not that hard. Just follow the below steps.
 - Choose port `8080` for both internal and external connection.
 - Paste your IPv4 Address value as your internal IP.
 - Set protocol as `TCP` or All
+
 Once done, run it. You are good to go.
+
 **NOTE:** You will have to share your external IP for the clients to connect to your server. 
 To do this, go <a href="https://whatismyipaddress.com/">here</a> and send your clients your `IPv4 Address`.
 
