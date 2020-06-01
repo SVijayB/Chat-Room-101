@@ -4,6 +4,19 @@
     <br>A Simple GUI based Chat Room Application.
 </p>
 
+---
+
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/SVijayB/Chat-Room-101.svg)](https://github.com/SVijayB/Chat-Room-101/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/SVijayB/Chat-Room-101.svg)](https://github.com/SVijayB/Chat-Room-101/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/SVijayB/Chat-Room-101.svg)](https://github.com/SVijayB/Chat-Room-101/graphs/contributors)
+
+[![GitHub license](https://img.shields.io/github/license/SVijayB/Chat-Room-101.svg)](https://github.com/SVijayB/Chat-Room-101/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/SVijayB/Chat-Room-101.svg)](https://github.com/SVijayB/Chat-Room-101/releases)
+[![GitHub repo size](https://img.shields.io/github/repo-size/SVijayB/Chat-Room-101)](https://github.com/SVijayB/Chat-Room-101)
+
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat)](https://github.com/SVijayB/Chat-Room-101/blob/master/docs/CODE_OF_CONDUCT.md)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/SVijayB/Chat-Room-101/blob/master/docs/CONTRIBUTING.md)
+
 ## Table of Contents
 
 - [Motivation](#Motivation)
