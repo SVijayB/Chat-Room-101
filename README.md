@@ -66,10 +66,10 @@ Enter the Host IP address and the Port number.
 
 ## Contributing 
 
-To contribute to Steam_WebScrapper, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/Chat-Room-101/blob/master/docs/CONTRIBUTING.md) before sending us Pull requests. 
+To contribute to Chat-Room-101, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/Chat-Room-101/blob/master/docs/CONTRIBUTING.md) before sending us Pull requests. 
 
 Also, thanks for contributing to Open-source!
 
 ## License 
 
-Steam Web Scraper is Licensed under MIT. Read the [LICENSE](https://github.com/SVijayB/Chat-Room-101/blob/master/LICENSE) file for more information.
+Chat-Room-101 is under The MIT License. Read the [LICENSE](https://github.com/SVijayB/Chat-Room-101/blob/master/LICENSE) file for more information.
