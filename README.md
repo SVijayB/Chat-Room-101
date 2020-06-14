@@ -29,7 +29,7 @@
 This application was built to create a simple and easy to use interface for sending and receiving messages.
 
 This application works on TCP connections made between devices over the internet.
-Hence, messages are sent and recieved securly.
+Hence, messages are sent and recieved securely.
 
 ## Usage
 
