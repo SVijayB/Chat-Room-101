@@ -29,7 +29,7 @@
 This application was built to create a simple and easy to use interface for sending and receiving messages.
 
 This application works on TCP connections made between devices over the internet.
-Hence, messages are sent and recieved securly.
+Hence, messages are sent and recieved securely.
 
 ## Usage
 
@@ -72,4 +72,4 @@ Also, thanks for contributing to Open-source!
 
 ## License 
 
-Steam Web Scraper is Licensed under MIT. Read the [LICENSE](https://github.com/SVijayB/Chat-Room-101/blob/master/LICENSE) file for more information.
+Chat-Room-101 is under The MIT License. Read the [LICENSE](https://github.com/SVijayB/Chat-Room-101/blob/master/LICENSE) file for more information.
