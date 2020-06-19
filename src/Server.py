@@ -1,6 +1,10 @@
 import socket
 from threading import Thread
+import time
 
+data = open("../assets/version.txt" , "r").read()
+print("Chat Room 101 | " + data)
+time.sleep(1)
 clients = {}
 addresses = {}
 

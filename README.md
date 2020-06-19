@@ -1,6 +1,6 @@
 # Chat-Room-101
 <p align="center">
-    <a href="https://github.com/SVijayB/Chat-Room-101"><img src="https://i.ibb.co/p3jgQSk/SS.png" alt="Logo" border="0"></a>
+    <img src="https://i.ibb.co/7NyHy0T/Logo.jpg" alt="Logo" border="0">
     <br>A Simple GUI based Chat Room Application.
 </p>
 
@@ -25,6 +25,10 @@
 - [License](#License)
 
 ## Motivation
+
+<p align="center">
+    <a href="https://github.com/SVijayB/Chat-Room-101"><img src="https://i.ibb.co/3TxfKt3/SS.png" alt="Logo" border="0"></a>
+</p>
 
 This application was built to create a simple and easy to use interface for sending and receiving messages.
 

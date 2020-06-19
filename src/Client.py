@@ -42,7 +42,9 @@ while(True):
         print("Please verify details entered")
     
 window = Tk()
-window.title("Chat Room")
+data = open("../assets/version.txt" , "r").read()
+window.title("Chat Room 101 | " + data)
+window.iconbitmap("../assets/Icon.ico")
 window.configure(bg="white")
 
 message_frame = Frame(window,height=100,width=100,bg="black")
