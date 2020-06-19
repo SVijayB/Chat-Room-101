@@ -1,6 +1,6 @@
 # Chat-Room-101
 <p align="center">
-    <img src="https://i.ibb.co/7NyHy0T/Logo.jpg" alt="Logo" border="0">
+    <img src="https://i.ibb.co/JHjgVtZ/Logo.png" alt="Logo" border="0">
     <br>A Simple GUI based Chat Room Application.
 </p>
 
