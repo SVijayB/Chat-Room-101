@@ -27,7 +27,7 @@
 ## Motivation
 
 <p align="center">
-    <a href="https://github.com/SVijayB/Chat-Room-101"><img src="assets/images/SS.png" alt="SS" border="0"></a>
+    <img src="assets/images/SS.PNG">
 </p>
 
 This application was built to create a simple and easy to use interface for sending and receiving messages.
