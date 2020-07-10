@@ -55,7 +55,7 @@ while(True):
 window = Tk()
 data = open("../assets/version.txt" , "r").read()
 window.title("Chat Room 101 | " + data)
-window.iconbitmap("../assets/Icon.ico")
+window.iconbitmap("../assets/images/Icon.ico")
 window.configure(bg="white")
 
 message_frame = Frame(window,height=100,width=100,bg="black")
